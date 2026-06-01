@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() {
+    inteiro contagem
+
+    para(contagem = 10; contagem >= 0; contagem --){
+      escreva("\nContegem regressiva: ", contagem)
+    }
+  }
+}
